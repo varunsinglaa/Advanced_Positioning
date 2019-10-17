@@ -4,16 +4,19 @@
     box-sizing: border-box;
   }
   
-  body {
+  body
+   {
     height: 1200px;
   }
   
-  .container {
+  .middle 
+  {
     display: flex;
     justify-content: center;
   }
   
-  .example {
+  .example
+   {
     display: flex;
     justify-content: space-around;
     
